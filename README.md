@@ -29,7 +29,8 @@
 
 ### 使用方式
 
-1.下载Python 2.7.1安装并设置环境变量
+1.下载Python 2.7.1  和 python3 安装并设置环境变量
+注意出现python3也要安装  查看这个教程 https://www.jianshu.com/p/2aa04e01206e  
 
 2.下载Node.JS  v18.15.0安装并设置环境变量
 
