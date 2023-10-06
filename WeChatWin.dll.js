@@ -29,7 +29,7 @@ try {
     console.log("WeChatWin.dll已备份!", path.join(exePath, "/WeChatWin_old.dll"))
     let fd = fs.openSync(path.join(exePath, "/WeChatWin.dll"), "r+");
     let buf = Buffer.alloc(1);
-    buf.hexWrite("85");
+    buf.hexWrite("85");  //JZ 84   JNZ 85
     fs.writeSync(fd, buf, 0, 1, address.XwebEnableInspect)
     console.log("完成覆盖!")
 } catch (error) {
