@@ -14,7 +14,7 @@
 
 
 
-志远QQ:1258586900
+志远QQ:125858690099
 
 ### 支持版本
 最新版下载地址：https://pc.weixin.qq.com/
@@ -156,6 +156,12 @@ HOOK到小程序加载! wxa+id
 ![小程序](./doc/png/wx05.png)
 
 ![小程序F12](./doc/png/wx06.png)
+
+#### 参考文档
+
+> (微信小程序改包调试patch方案 ) https://drafts.misty.moe/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F%E6%94%B9%E5%8C%85%E8%B0%83%E8%AF%95patch%E6%96%B9%E6%A1%88-90662835c05647eebe5651ab041fe145#59e3c200dee64339b835a928ab323263 
+>
+> (在电脑上直接调试微信WxApkg小程序 图片丢失) https://drafts.misty.moe/%E5%9C%A8%E7%94%B5%E8%84%91%E4%B8%8A%E7%9B%B4%E6%8E%A5%E8%B0%83%E8%AF%95%E5%BE%AE%E4%BF%A1wxapkg%E5%B0%8F%E7%A8%8B%E5%BA%8F-370c7cbbc4bd4d87a329590bf2519720#ad5c875e224047dbb3c069a6e70f8cda
 
 #### 感谢名单    前后顺序与技术无关
 
